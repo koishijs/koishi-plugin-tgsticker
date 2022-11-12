@@ -1,0 +1,6 @@
+commands:
+  tgsticker:
+    description: Telegram 贴纸
+    messages:
+      output: |-
+        {title}
